@@ -1,0 +1,32 @@
+.box{
+    width: 250px;
+    height: 250px;
+    background-color: #333;
+    margin: 10px;
+    display: none;
+    background-image: url('a.jpg');
+    background-size: cover;
+    text-align: center;
+    color: white;
+
+}
+
+.container .box{
+    width: 250px;
+    height: 25  0px;
+    background-color: black;
+    margin: 10px;
+    display: none;
+    background-image: url('1.jpg');
+    text-align: center;
+    color: green;
+    
+}
+
+div {
+    display: inline-block;
+}
+
+.transform{
+    transform: scale(1.1);
+}

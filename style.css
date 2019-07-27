@@ -1,0 +1,38 @@
+p { 
+    display: none;
+}
+
+button {
+    display: block;
+}
+
+#box1 {
+    width: 200px;
+    height: 200px;
+    background-color: #009fff;
+    display: none;
+}
+
+#box2 {
+    width: 200px;
+    height: 200px;
+    background: red;
+    display: none;
+}
+
+.bg-blue {
+    background-color: #009fff;
+}
+
+.bg-brown {
+    background-color: brown;
+}
+
+a{
+    text-decoration: none;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+}

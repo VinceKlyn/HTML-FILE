@@ -1,0 +1,18 @@
+.form { 
+    color: red;
+     padding-top: 20px;
+}
+
+button { 
+    border-radius: 5px;
+    background-color:yellow;
+    list-style-image: url('check.jpg');
+}
+
+a{
+    text-decoration: none;
+}
+
+.bg-blue{
+    background-color:lightskyblue;
+}
